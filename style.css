@@ -17,5 +17,7 @@
 
 #nav_container li a:hover {
     background-color: green;
+    color: rgb(0,0,0); 
+}
 	
  
