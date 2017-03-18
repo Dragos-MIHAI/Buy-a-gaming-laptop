@@ -1,7 +1,5 @@
 #nav_container {
     list-style-type: none;
-    max-width: 100%;
-    height: auto;
     background-color:red;
     margin-bottom: 15px;
 }
