@@ -16,9 +16,8 @@
     }
 
 #nav_container li a:hover {
-    background-color: green;
-    text-decoration: yellow;
-}
+    background-color: none;
+   }
 	
  .h3 {
             background-color: blue;
